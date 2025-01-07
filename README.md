@@ -24,14 +24,15 @@ The goal is to identify potential borrowers more likely to default on their loan
 
  ## Approach
 
- *  Data Preparation:
-   *  Loadandmerge Excel sheets.
-   *  Explore data statistics, distributions, and data types.
-   *  Handle missing values using appropriate techniques.
-   *  Address data skewness and multicollinearity.
-   *  Encode categorical features.
-   *  Address data imbalance for loan defaults.
-* ModelBuilding and Tuning:
+ * Data Preparation:
+  * Load and merge Excel sheets.
+  * Explore data statistics, distributions, and data types.
+  * Handle missing values using appropriate techniques.
+  * Address data skewness and multicollinearity.
+  * Encode categorical features.
+  * Address data imbalance for loan defaults.
+
+* Model Building and Tuning:
   * Split the data into training and testing sets.
   * Train XGBoost and Random Forest models.
   * Utilize Neptune for experiment tracking.
