@@ -1,4 +1,4 @@
-# **Explainable AI Part 1: Data Preparation and Machine Learning**
+# **Loan Default Prediction: Data Preparation and Machine Learning**
 
 ## Overview
 
