@@ -25,8 +25,8 @@ The goal is to identify potential borrowers more likely to default on their loan
  ## Approach
 
  * Data Preparation:
-  * Load and merge Excel sheets.
-  * Explore data statistics, distributions, and data types.
+   * Load and merge Excel sheets.
+  * 
   * Handle missing values using appropriate techniques.
   * Address data skewness and multicollinearity.
   * Encode categorical features.
